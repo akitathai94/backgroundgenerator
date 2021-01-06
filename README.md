@@ -1,6 +1,6 @@
 # Background Generator
 
-This project about input two colors from GUI and used Linear-Gradient to blend those two colors into background colors. 
+This project takes input two colors from GUI and used Linear-Gradient function to blend those two colors into background colors. 
 
 ## Usage
 
